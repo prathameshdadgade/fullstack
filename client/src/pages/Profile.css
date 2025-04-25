@@ -1,0 +1,29 @@
+.profile-container {
+    padding: 20px;
+    max-width: 600px;
+    margin: auto;
+    background-color: #f4f4f9;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+  .profile-info p {
+    font-size: 16px;
+    margin: 10px 0;
+  }
+  
+  .profile-info strong {
+    font-weight: bold;
+  }
+  .rated-stores-list {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .rated-stores-list li {
+    margin: 15px 0;
+    padding: 10px;
+    background-color: #eef;
+    border-radius: 5px;
+  }
+  

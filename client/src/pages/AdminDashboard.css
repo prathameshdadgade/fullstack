@@ -1,0 +1,59 @@
+.admin-dashboard {
+  padding: 30px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #f7f9fc;
+  min-height: 100vh;
+}
+
+.admin-dashboard h1 {
+  color: #2c3e50;
+  margin-bottom: 20px;
+}
+
+.logout-button {
+  background-color: #e74c3c;
+  color: white;
+  border: none;
+  padding: 10px 16px;
+  float: right;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.logout-button:hover {
+  background-color: #c0392b;
+}
+
+.dashboard-section {
+  margin-top: 40px;
+  background-color: white;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 1px 6px rgba(0, 0, 0, 0.1);
+}
+
+.dashboard-section h2 {
+  margin-bottom: 15px;
+  color: #34495e;
+}
+
+.dashboard-section table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.dashboard-section th,
+.dashboard-section td {
+  border: 1px solid #ddd;
+  padding: 12px;
+  text-align: left;
+}
+
+.dashboard-section th {
+  background-color: #ecf0f1;
+  color: #2c3e50;
+}
+
+.dashboard-section tr:nth-child(even) {
+  background-color: #f9f9f9;
+}
