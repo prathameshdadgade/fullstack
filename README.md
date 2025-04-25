@@ -8,13 +8,16 @@
 
 1)user 
 Id: hitman@gmail.com
+
 password:Hitman@264
 
 2)admin
 Id:admin@gmail.com
+
 password:Hitman@264
 
 3)storeOwner
 Id:storeowner@gmail.com
+
 password:Hitman@264
 
